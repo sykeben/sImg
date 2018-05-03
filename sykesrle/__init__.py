@@ -1,5 +1,5 @@
 # SykesRLE Library
-# This version modified for embedded usage in sImg
+# This version modified for embedded usage
 
 from re import sub
 
