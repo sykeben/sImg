@@ -1,3 +1,6 @@
+# SykesRLE Library
+# This version modified for embedded usage in sImg
+
 from re import sub
 
 def encode(text):
